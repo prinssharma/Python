@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19226cd7-06f9-4c7e-a041-8f6c21c00dfb" name="Changes" comment="Abstraction &amp; Switch case added">
-      <change afterPath="$PROJECT_DIR$/DigitPattern1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrintArmstrongTillN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/BubbleSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/MergeSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/SelectionSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
